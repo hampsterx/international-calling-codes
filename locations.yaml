@@ -1,0 +1,1214 @@
+#
+#   Top Level Dialing Locations
+#
+#   This list was compiled from several sources including:
+#     - https://www.itu.int/oth/T0202.aspx?parent=T0202 (ITU National Numbering Plans)
+#
+#   Iso Codes Should reference: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
+#
+#   Rules:
+#     - NAMP (North American Numbering PLan) numbers prefixed with 1
+#     - Common/Standard Name used
+#
+#   Duplicates:
+#     - See tests for cases:
+#         - number shared by multiple countries (eg USA/Canada)
+#         - multiple number used by single country (eg Puerto Rico)
+#         - sub numbers (eg Scott Base (NZ))
+#
+
+
+1:
+  Canada:
+    iso: CAN
+    aliases: []
+  USA:
+    iso: USA
+    aliases:
+    - United States
+    - United States of America
+    - Alaska
+    - Hawaii
+    -
+1242:
+  Bahamas:
+    iso: BHS
+    aliases: []
+1246:
+  Barbados:
+    iso: BRB
+    aliases: []
+1264:
+  Anguilla:
+    iso: AIA
+    aliases: []
+1268:
+  Antigua and Barbuda:
+    iso: ATG
+    aliases:
+    - Antigua & Barbuda
+    - Antigua
+1284:
+  Virgin Islands (British):
+    iso: VGB
+    aliases:
+    - British Virgin Islands
+    - Virgin Islands British
+    - British V.I
+1340:
+  Virgin Islands (US):
+    iso: VIR
+    aliases:
+    - Virgin Islands US
+    - Virgin Islands (USA)
+    - United States Virgin Islands
+    - U.S. Virgin Islands
+1345:
+  Cayman Islands:
+    iso: CYM
+    aliases: []
+1441:
+  Bermuda:
+    iso: BMU
+    aliases: []
+1473:
+  Grenada:
+    iso: GRD
+    aliases:
+    - Grenada/Carricou
+1649:
+  Turks and Caicos Islands:
+    iso: TCA
+    aliases:
+    - Turks & Caicos Is
+    - Turks and Caicos
+1658:
+  Jamaica:
+    iso: JAM
+    aliases: []
+1664:
+  Montserrat:
+    iso: MSR
+    aliases: []
+1670:
+  Mariana Islands:
+    iso: MNP
+    aliases:
+    - Mariana Island
+    - North Mariana Islands (Saipan)
+    - Northern Mariana Islands
+    - No. Mariana Islands
+1671:
+  Guam:
+    iso: GUM
+    aliases: []
+1684:
+  American Samoa:
+    iso: ASM
+    aliases:
+    - Samoa (American)
+1721:
+  # Dutch part
+  Sint Maarten:
+    iso: SXM
+    aliases:
+    - Sint Maarten Dutch part
+    - St. Martin
+1758:
+  Saint Lucia:
+    iso: LCA
+    aliases:
+    - St. Lucia
+1767:
+  Dominica:
+    iso: DMA
+    aliases: []
+1784:
+  Saint Vincent and the Grenadines:
+    iso: VCT
+    aliases:
+    - St Vincent & Bequia
+    - St. Vincent
+1787:
+  Puerto Rico:
+    iso: PRI
+    aliases: []
+1809:
+  Dominican Republic:
+    iso: DOM
+    aliases:
+    - Dominican Rep
+1829:
+  Dominican Republic:
+    iso: DOM
+    aliases:
+    - Dominican Rep
+1849:
+  Dominican Republic:
+    iso: DOM
+    aliases:
+    - Dominican Rep
+1868:
+  Trinidad and Tobago:
+    iso: TTO
+    aliases:
+    - Trinidad & Tobago
+1869:
+  Saint Kitts and Nevis:
+    iso: KNA
+    aliases:
+    - St Kitts & Nevis
+    - Nevis
+    - St. Kitts/Nevis
+1876:
+  Jamaica:
+    iso: JAM
+    aliases: []
+1939:
+  Puerto Rico:
+    iso: PRI
+    aliases: []
+20:
+  Egypt:
+    iso: EGY
+    aliases: []
+211:
+  South Sudan:
+    iso: SSD
+    aliases: []
+212:
+  Morocco:
+    iso: MAR
+    aliases: []
+  # Western Sahara use ranges owned by Morocco
+  Western Sahara:
+    iso: ESH
+    aliases: []
+213:
+  Algeria:
+    iso: DZA
+    aliases: []
+216:
+  Tunisia:
+    iso: TUN
+    aliases: []
+218:
+  Libya:
+    iso: LBY
+    aliases: []
+220:
+  Gambia:
+    iso: GMB
+    aliases: []
+221:
+  Senegal:
+    iso: SEN
+    aliases: []
+222:
+  Mauritania:
+    iso: MRT
+    aliases: []
+223:
+  Mali:
+    iso: MLI
+    aliases: []
+224:
+  Guinea:
+    iso: GIN
+    aliases: []
+225:
+  Ivory Coast:
+    iso: CIV
+    aliases:
+    - Ivory Coast (La Cote d'Ivoire)
+    - Cote d'Ivoire
+226:
+  Burkina Faso:
+    iso: BFA
+    aliases: []
+227:
+  Niger:
+    iso: NER
+    aliases: []
+228:
+  Togo:
+    iso: TGO
+    aliases:
+    - Togolese Republic
+    - Togo (Togolese Republic)
+229:
+  Benin:
+    iso: BEN
+    aliases: []
+230:
+  Mauritius:
+    iso: MUS
+    aliases: []
+231:
+  Liberia:
+    iso: LBR
+    aliases: []
+232:
+  Sierra Leone:
+    iso: SLE
+    aliases: []
+233:
+  Ghana:
+    iso: GHA
+    aliases: []
+234:
+  Nigeria:
+    iso: NGA
+    aliases: []
+235:
+  Chad:
+    iso: TCD
+    aliases: []
+236:
+  Central African Republic:
+    iso: CAF
+    aliases:
+    - Central African Rep
+237:
+  Cameroon:
+    iso: CMR
+    aliases: []
+238:
+  Cape Verde:
+    iso: CPV
+    aliases:
+    - Cape Verdi
+    - CapeVerde Islands
+    - Cabo Verde
+239:
+  Sao Tome and Principe:
+    iso: STP
+    aliases:
+    - Sao Tome & Principe
+240:
+  Equatorial Guinea:
+    iso: GNQ
+    aliases: []
+241:
+  Gabon:
+    iso: GAB
+    aliases:
+    - Gabonese
+    - Gabonese Republic
+    - Gabon (Gabonese Republic)
+242:
+  Congo:
+    iso: COG
+    aliases:
+    - Republic of the Congo
+    - Congo Rep. of the
+243:
+  Congo Democratic Republic of:
+    iso: COD
+    aliases:
+    - Democratic Republic of the Congo
+    - Dem. Rep. of the Congo
+    - Zaire
+244:
+  Angola:
+    iso: AGO
+    aliases: []
+245:
+  Guinea Bissau:
+    iso: GNB
+    aliases:
+    - Guinea-Bissau
+    - GuineaBissau
+246:
+  British Indian Ocean Territory:
+    iso: IOT
+    aliases: []
+  Diego Garcia:
+    iso: DGA
+    aliases: []
+247:
+  Ascension Island:
+    iso: SHN
+    aliases:
+    - Ascension
+248:
+  Seychelles:
+    iso: SYC
+    aliases: []
+249:
+  Sudan:
+    iso: SDN
+    aliases: []
+250:
+  Rwanda:
+    iso: RWA
+    aliases:
+    - Rwanda (Rwandese Republic)
+251:
+  Ethiopia:
+    iso: ETH
+    aliases: []
+252:
+  Somalia:
+    iso: SOM
+    aliases:
+    - Somali Democratic Republic
+253:
+  Djibouti:
+    iso: DJI
+    aliases: []
+254:
+  Kenya:
+    iso: KEN
+    aliases: []
+255:
+  Tanzania:
+    iso: TZA
+    aliases:
+    - Tanzania (includes Zanzibar)
+    - Zanzibar
+256:
+  Uganda:
+    iso: UGA
+    aliases: []
+257:
+  Burundi:
+    iso: BDI
+    aliases: []
+258:
+  Mozambique:
+    iso: MOZ
+    aliases: []
+260:
+  Zambia:
+    iso: ZMB
+    aliases: []
+261:
+  Madagascar:
+    iso: MDG
+    aliases: []
+262:
+  #  +262 thus became an Indian Ocean regional country code for French territories. (Reunion, Mayotte)
+  Mayotte:
+    iso: MYT
+    aliases: []
+  Reunion:
+    iso: REU
+    aliases:
+    - Reunion (France)
+263:
+  Zimbabwe:
+    iso: ZWE
+    aliases: []
+264:
+  Namibia:
+    iso: NAM
+    aliases:
+    - Namibia (former SouthWest Africa)
+265:
+  Malawi:
+    iso: MWI
+    aliases: []
+266:
+  Lesotho:
+    iso: LSO
+    aliases: []
+267:
+  Botswana:
+    iso: BWA
+    aliases: []
+268:
+  Eswatini:
+    iso: SWZ
+    aliases:
+    - Swaziland
+269:
+  # Prior to 2007, country code +269 was shared by the islands of Comoros and Mayotte.
+  Comoros:
+    iso: COM
+    aliases: []
+27:
+  South Africa:
+    iso: ZAF
+    aliases: []
+290:
+  Saint Helena and Tristan de Cunha:
+    iso: SHN
+    aliases:
+    - Tristan da Cunha
+    - Saint Helena
+    - St Helena
+    - St. Helena
+    - Saint Helena Ascension and Tristan da Cunha
+291:
+  Eritrea:
+    iso: ERI
+    aliases: []
+297:
+  Aruba:
+    iso: ABW
+    aliases: []
+298:
+  Faroe Islands:
+    iso: FRO
+    aliases:
+    - Faeroe Island
+    - Faroe (Faeroe) Islands (Denmark)
+299:
+  Greenland:
+    iso: GRL
+    aliases: []
+30:
+  Greece:
+    iso: GRC
+    aliases: []
+31:
+  Netherlands:
+    iso: NLD
+    aliases: []
+32:
+  Belgium:
+    iso: BEL
+    aliases: []
+33:
+  France:
+    iso: FRA
+    aliases: []
+34:
+  Spain:
+    iso: ESP
+    aliases: []
+350:
+  Gibraltar:
+    iso: GIB
+    aliases: []
+351:
+  Portugal:
+    iso: PRT
+    aliases:
+    - Portugal (includes Azores)
+352:
+  Luxembourg:
+    iso: LUX
+    aliases: []
+353:
+  Ireland:
+    iso: IRL
+    aliases:
+    - Ireland (Republic)
+    - Ireland (Irish Republic; Eire)
+354:
+  Iceland:
+    iso: ISL
+    aliases: []
+355:
+  Albania:
+    iso: ALB
+    aliases: []
+356:
+  Malta:
+    iso: MLT
+    aliases: []
+357:
+  Cyprus:
+    iso: CYP
+    aliases:
+    - Cyprus Republic of
+358:
+  Finland:
+    iso: FIN
+    aliases: []
+  Aland Islands:
+    iso: FIN
+    aliases:
+    - Aland Islands
+359:
+  Bulgaria:
+    iso: BGR
+    aliases: []
+36:
+  Hungary:
+    iso: HUN
+    aliases: []
+370:
+  Lithuania:
+    iso: LTU
+    aliases: []
+371:
+  Latvia:
+    iso: LVA
+    aliases: []
+372:
+  Estonia:
+    iso: EST
+    aliases: []
+373:
+  Moldova:
+    iso: MDA
+    aliases: []
+374:
+  Armenia:
+    iso: ARM
+    aliases: []
+375:
+  Belarus:
+    iso: BLR
+    aliases: []
+376:
+  Andorra:
+    iso: AND
+    aliases: []
+377:
+  Monaco:
+    iso: MCO
+    aliases: []
+378:
+  San Marino:
+    iso: SMR
+    aliases: []
+379:
+  Vatican City:
+    iso: VAT
+    aliases:
+    - Vatican City
+    - Vatican City State
+    - Vatican
+380:
+  Ukraine:
+    iso: UKR
+    aliases: []
+381:
+  Serbia:
+    iso: SRB
+    aliases:
+    - Serbia and Montenegro
+382:
+  Montenegro:
+    iso: MNE
+    aliases: []
+383:
+  Kosovo:
+    iso: XKX
+    aliases:
+    - Republic of Kosovo
+385:
+  Croatia:
+    iso: HRV
+    aliases: []
+386:
+  Slovenia:
+    iso: SVN
+    aliases: []
+387:
+  Bosnia and Herzegovina:
+    iso: BIH
+    aliases:
+    - Bosnia Herzegovina
+    - Bosnia and Hercegovina
+389:
+  North Macedonia:
+    iso: MKD
+    aliases:
+    - FYR of Macedonia
+    - Macedonia
+39:
+  Italy:
+    iso: ITA
+    aliases: []
+40:
+  Romania:
+    iso: ROU
+    aliases: []
+41:
+  Switzerland:
+    iso: CHE
+    aliases: []
+420:
+  Czech Republic:
+    iso: CZE
+    aliases:
+    - Czech Rep
+421:
+  Slovakia:
+    iso: SVK
+    aliases:
+    - Slovak Republic
+423:
+  Liechtenstein:
+    iso: LIE
+    aliases: []
+43:
+  Austria:
+    iso: AUT
+    aliases: []
+44:
+  UK:
+    iso: GBR
+    aliases:
+    - United Kingdom
+    - UK Special
+441481:
+  Guernsey:
+    iso: GGY
+    aliases: []
+441534:
+  Jersey:
+    iso: JEY
+    aliases: []
+441624:
+  Isle of Man:
+    iso: IMN
+    aliases: []
+45:
+  Denmark:
+    iso: DNK
+    aliases: []
+46:
+  Sweden:
+    iso: SWE
+    aliases: []
+47:
+  Norway:
+    iso: NOR
+    aliases: []
+4779:
+  # https://en.wikipedia.org/wiki/Telephone_numbers_in_Svalbard
+  Svalbard and Jan Mayen:
+    iso: SJM
+    aliases: []
+48:
+  Poland:
+    iso: POL
+    aliases: []
+49:
+  Germany:
+    iso: DEU
+    aliases: []
+500:
+  Falkland Islands:
+    iso: FLK
+    aliases:
+    - Falkland Islands
+    - Falkland Islands Malvinas
+501:
+  Belize:
+    iso: BLZ
+    aliases: []
+502:
+  Guatemala:
+    iso: GTM
+    aliases: []
+503:
+  El Salvador:
+    iso: SLV
+    aliases: []
+504:
+  Honduras:
+    iso: HND
+    aliases: []
+505:
+  Nicaragua:
+    iso: NIC
+    aliases: []
+506:
+  Costa Rica:
+    iso: CRI
+    aliases: []
+507:
+  Panama:
+    iso: PAN
+    aliases: []
+508:
+  Saint Pierre and Miquelon:
+    iso: SPM
+    aliases:
+    - St Pierre & Miquelon
+    - St. Pierre &(et) Miquelon (France)
+509:
+  Haiti:
+    iso: HTI
+    aliases: []
+51:
+  Peru:
+    iso: PER
+    aliases: []
+52:
+  Mexico:
+    iso: MEX
+    aliases: []
+53:
+  Cuba:
+    iso: CUB
+    aliases: []
+54:
+  Argentina:
+    iso: ARG
+    aliases:
+    - Argentine Republic
+55:
+  Brazil:
+    iso: BRA
+    aliases: []
+56:
+  Chile:
+    iso: CHL
+    aliases: []
+57:
+  Colombia:
+    iso: COL
+    aliases: []
+58:
+  Venezuela:
+    iso: VEN
+    aliases: []
+590:
+  Saint Barthelemy:
+    iso: BLM
+    aliases: []
+  #  The northern French side of the island, known as Saint-Martin, is not within the North American Numbering Plan, and has the country code +590, shared with Guadeloupe and Saint Barthélemy.
+  Saint Martin:
+    iso: MAF
+    aliases:
+    - St. Martin
+  Guadeloupe:
+    iso: GLP
+    aliases:
+    - Guadeloupe (French)
+591:
+  Bolivia:
+    iso: BOL
+    aliases: []
+592:
+  Guyana:
+    iso: GUY
+    aliases:
+    - GUYANA
+593:
+  Ecuador:
+    iso: ECU
+    aliases: []
+594:
+  French Guiana:
+    iso: GUF
+    aliases: []
+595:
+  Paraguay:
+    iso: PRY
+    aliases: []
+596:
+  Martinique:
+    iso: MTQ
+    aliases: []
+597:
+  Suriname:
+    iso: SUR
+    aliases: []
+598:
+  Uruguay:
+    iso: URY
+    aliases: []
+599:
+  Curacao:
+    iso: CUW
+    aliases:
+    - Curacao
+  Caribbean Netherlands:
+    iso: BES
+    aliases:
+    - Bonaire, Sint Eustatius and Saba
+    - Bonaire Sint Eustatius and Saba
+    - Netherlands Antilles
+60:
+  Malaysia:
+    iso: MYS
+    aliases: []
+61:
+  Australia:
+    iso: AUS
+    aliases: []
+61891:
+  # Telephone numbers in Christmas Island use ranges owned by Australia.
+  # Central and West region (Derby [inc. Cocos/Keeling & Christmas Islands.])
+  Christmas Island:
+    iso: CXR
+    aliases:
+    - Christmas Is
+  Cocos Islands:
+    iso: CCK
+    aliases:
+    - Cocos (Keeling) Islands
+62:
+  Indonesia:
+    iso: IDN
+    aliases: []
+63:
+  Philippines:
+    iso: PHL
+    aliases: []
+64:
+  New Zealand:
+    iso: NZL
+    aliases: []
+  # Telephone numbers in Pitcairn Island use ranges owned by New Zealand.
+  Pitcairn:
+    iso: PCN
+    aliases: []
+64240:
+  Scott Base (New Zealand):
+    iso: NZL
+    aliases:
+    - Scott Base
+    - NEW ZEALAND Scott Base
+65:
+  Singapore:
+    iso: SGP
+    aliases: []
+66:
+  Thailand:
+    iso: THA
+    aliases: []
+670:
+  Timor-Leste:
+    iso: TLS
+    aliases:
+    - Democratic Republic of Timor-Leste
+    - Timor Leste
+    - East Timor
+672:
+  # 672 Includes Australia-administered territories: Antarctica (Australian bases), Norfolk Islands.
+  # In April 2003, an extra digit was added to subscriber numbers of Antarctic bases under +672 (Australia-administered network)
+  Norfolk Island:
+    iso: NFK
+    aliases: []
+6721:
+  Antarctic bases (Australia):
+    iso: AUS
+    aliases:
+    - Antarctica
+673:
+  Brunei:
+    iso: BRN
+    aliases:
+    - Brunei Darussalm
+    - Brunei Darussalam
+674:
+  Nauru:
+    iso: NRU
+    aliases: []
+675:
+  Papua New Guinea:
+    iso: PNG
+    aliases: []
+676:
+  Tonga:
+    iso: TON
+    aliases: []
+677:
+  Solomon Islands:
+    iso: SLB
+    aliases: []
+678:
+  Vanuatu:
+    iso: VUT
+    aliases:
+    - Vanuatu (New Hebrides)
+679:
+  Fiji:
+    iso: FJI
+    aliases: []
+680:
+  Palau:
+    iso: PLW
+    aliases: []
+681:
+  Wallis and Futuna:
+    iso: WLF
+    aliases:
+    - Wallis and Futuna Islands
+682:
+  Cook Islands:
+    iso: COK
+    aliases: []
+683:
+  Niue:
+    iso: NIU
+    aliases:
+    - Niue Island
+685:
+  Samoa (Western):
+    iso: WSM
+    aliases:
+    - Samoa (Western)
+    - Western Samoa
+    - Samoa
+686:
+  Kiribati:
+    iso: KIR
+    aliases:
+    - Kiribati Republic (Gilbert Islands)
+687:
+  New Caledonia:
+    iso: NCL
+    aliases: []
+688:
+  Tuvalu:
+    iso: TUV
+    aliases:
+    - Tuvalu (Ellice Islands)
+689:
+  French Polynesia:
+    iso: PYF
+    aliases:
+    - Tahiti
+    - Tahiti (French Polynesia)
+690:
+  Tokelau:
+    iso: TKL
+    aliases: []
+691:
+  Micronesia (Federated States):
+    iso: FSM
+    aliases:
+    - Micronesia
+    - Micronesia (F.S. of Polynesia)
+692:
+  Marshall Islands:
+    iso: MHL
+    aliases: []
+7:
+  Russia:
+    iso: RUS
+    aliases:
+    - Russian Federation
+    - Kazakhstan
+76:
+  # Telephone numbers in Kazakhstan are under a unified numbering plan with Russia with the country calling code +7. Historically, +7 was used as the Soviet Union country calling code.
+  # Following the break-up of the Soviet Union, all former republics except Russia and Kazakhstan switched to new country codes.
+  # Area codes of the form 3xx were changed to 7xx form (that is, the 3 digits immediately following the trunk prefix domestically or country code internationally).
+  # Both old and new area codes were diallable in permissive mode until 5 October 2007.
+  # Range    Nation
+  # -----    ------
+  # +7 3...  Russia
+  # +7 4...  Russia
+  # +7 5...  Russia
+  # +7 6...  Kazakhstan
+  # +7 7...  Kazakhstan
+  # +7 9...  Russia
+  Kazakhstan:
+    iso: KAZ
+    aliases:
+    - Russian
+767:
+  Dominca:
+    iso: DMA
+    aliases:
+    - Commonwealth of Dominica
+77:
+  Kazakhstan:
+    iso: KAZ
+    aliases: []
+81:
+  Japan:
+    iso: JPN
+    aliases: []
+82:
+  Korea (South):
+    iso: KOR
+    aliases:
+    - Korea
+    - Korea, Republic of (South Korea)
+    - Korea Republic of
+    - Korea Rep. of
+    - Korea (Sth)
+    - South Korea
+84:
+  Viet Nam:
+    iso: VNM
+    aliases:
+    - Vietnam
+850:
+  Korea (DPR):
+    iso: PRK
+    aliases:
+    - Democratic People's Republic of Korea
+    - Korea Democratic Peoples Republic of
+    - Korea, People's Republic of (North Korea)
+    - Dem. People's Rep. of Korea
+    - Korea (Nth)
+    - North Korea
+852:
+  Hong Kong:
+    iso: HKG
+    aliases:
+    - Hong Kong, China
+    - Hong Kong China
+853:
+  Macao:
+    iso: MAC
+    aliases:
+    - Macau
+    - Macao, China
+    - Macao China
+855:
+  Cambodia:
+    iso: KMH
+    aliases:
+    - Khmer Republic (Cambodia/Kampuchea)
+856:
+  Laos:
+    iso: LAO
+    aliases:
+    - Lao People's Democratic Republic
+    - Lao P.D.R
+86:
+  China:
+    iso: CHN
+    aliases:
+    - China (People's Republic)
+880:
+  Bangladesh:
+    iso: BGD
+    aliases: []
+886:
+  Taiwan:
+    iso: TWN
+    aliases:
+    - Taiwan, China
+    - Taiwan China
+90:
+  Turkey:
+    iso: TUR
+    aliases: []
+91:
+  India:
+    iso: IND
+    aliases: []
+92:
+  Pakistan:
+    iso: PAK
+    aliases: []
+93:
+  Afghanistan:
+    iso: AFG
+    aliases: []
+94:
+  Sri Lanka:
+    iso: LKA
+    aliases: []
+95:
+  Myanmar:
+    iso: MMR
+    aliases:
+    - Myanmar (former Burma)
+960:
+  Maldives:
+    iso: MDV
+    aliases:
+    - Maldives Republic
+961:
+  Lebanon:
+    iso: LBN
+    aliases: []
+962:
+  Jordan:
+    iso: JOR
+    aliases: []
+963:
+  Syria:
+    iso: SYR
+    aliases:
+    - Syrian Arab Republic (Syria)
+    - Syrian Arab Republic
+964:
+  Iraq:
+    iso: IRQ
+    aliases: []
+965:
+  Kuwait:
+    iso: KWT
+    aliases: []
+966:
+  Saudi Arabia:
+    iso: SAU
+    aliases: []
+967:
+  Yemen:
+    iso: YEM
+    aliases:
+    - Yemen (People's Democratic Republic of)
+968:
+  Oman:
+    iso: OMN
+    aliases: []
+970:
+  # This code is mainly used when calling from Arab countries to places under the jurisdiction of the Palestinian Authority (including the Gaza Strip).
+  # The telecommunication system in the West Bank and the Gaza Strip is considerably dependent on the Israeli infrastructure, therefore, from most countries,
+  # dialing +972 would often be the better option to access phone numbers in the Palestinian territories. In some cases, when the number was allocated directly by an Israeli company,
+  # this would be the only option. However, from many Arab or Muslim countries that block the Israeli access code, dialing 970 is the only option to access the Palestinian telecommunication system.
+  Palestine:
+    iso: PSE
+    aliases:
+    - Palestine
+    - Palestinian Territory
+971:
+  United Arab Emirates:
+    iso: ARE
+    aliases:
+    - UAE
+    - U.A.E
+972:
+  Israel:
+    iso: ISR
+    aliases: []
+973:
+  Bahrain:
+    iso: BHR
+    aliases: []
+974:
+  Qatar:
+    iso: QAT
+    aliases: []
+975:
+  Bhutan:
+    iso: BTN
+    aliases: []
+976:
+  Mongolia:
+    iso: MNG
+    aliases: []
+977:
+  Nepal:
+    iso: NPL
+    aliases: []
+98:
+  IRAN:
+    iso: IRN
+    aliases:
+    - Iran
+    - Iran Islamic Republic of
+992:
+  Tajikistan:
+    iso: TJK
+    aliases: []
+993:
+  Turkmenistan:
+    iso: TKM
+    aliases: []
+994:
+  Azerbaijan:
+    iso: AZE
+    aliases:
+    - Azerbaijani Republic
+995:
+  Georgia:
+    iso: GEO
+    aliases: []
+996:
+  Kyrgyzstan:
+    iso: KGZ
+    aliases:
+    - Kyrgyz Republic
+998:
+  Uzbekistan:
+    iso: UZB
+    aliases: []
